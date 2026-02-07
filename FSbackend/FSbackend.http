@@ -1,0 +1,6 @@
+@FSbackend_HostAddress = http://localhost:5289
+
+GET {{FSbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
